@@ -40,6 +40,5 @@ async function getPosts() {
 		post.save();
 	}
 
-	// console.log(response);
 }
 getPosts();
